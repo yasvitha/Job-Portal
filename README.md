@@ -1,5 +1,7 @@
 # Job Search Portal
 
+Website link for users: https://job-portal-live.netlify.app/ 
+
 A modern job search portal built with React, Vite, and Supabase. This application allows users to browse job listings, apply filters, and submit job applications.
 
 ## Features
